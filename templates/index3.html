@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Python Flask Upload and display image</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+</head>
+<body style="background-color:#b3cccc;">
+<p><h1 align="center" style="font-family: Arial">Emotion Recognition on Video Speech</h1></p>
+<div class="container" style="width:400px; margin:4 auto;" >
+<div class="row">
+    <h3>Select a file to upload and predict</h3>
+    <p>
+        {% with messages = get_flashed_messages() %}
+          {% if messages %}
+            <ul>
+            {% for message in messages %}
+              <li>{{ message }}</li>
+            {% endfor %}
+            </ul>
+          {% endif %}
+        {% endwith %}
+    </p>
+    {% if filename %}
+        <div >
+            <audio controls="controls" src="{{ url_for('display_audio', filename=filename) }}" type="audio/wav"></audio>
+
+            <p style="line-height: 1.8">The speaker is : <span style="color:rgb(255, 77, 77);"> {{prediction}}</span></p>
+        </div>
+    {% endif %}
+    <form method="post" action="/" enctype="multipart/form-data">
+        <dl>
+            <p>
+                <input type="file" name="file" class="form-control" autocomplete="off" required style="width:300px;">
+            </p>
+        </dl>
+        <p>
+            <input type="submit" value="Submit" class="btn btn-info">
+        </p>
+    </form>
+
+</div>
+</div>
+<footer style="text-align:center;">&copy; Copyright 2021 Riya Mandal, MCA -
+<a href="mailto:riyamandal.dm@gmail.com">riyamandal.dm@gmail.com</a>
+</footer>
+</body>
+</html>

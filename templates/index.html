@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Emotion Recognition on Video Speech</title>
+</head>
+<body style="background-color:grey;">
+{% block content %}
+<div id="speechContainer" class="center">
+    <label>Upload new File</label>
+    <br>
+    <br>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file"/>
+        <br>
+        <br>
+        <audio controls="controls" src="static/uploads/convo1_chunk1.wav"></audio>
+        <br>
+        <br>
+        <a href="javascript:void(0);">{{sound}}</a>
+        <input type="submit" id="submitButton" class="btn btn-primary" value="Upload"/>
+        <br>
+    </form>
+    <br>
+    <p id="line">The emotion for the selected audio is:</p>
+    <p id="pred">{{ prediction_text }}</p>
+    <br>
+</div>
+
+{% endblock %}
+</body>
+</html>
