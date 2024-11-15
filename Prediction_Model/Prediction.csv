@@ -1,0 +1,760 @@
+file_name,predicted_emotion,speaker
+Convo2_chunk0.wav,happy,convo2
+Convo2_chunk1.wav,happy,convo2
+Convo2_chunk10.wav,happy,convo2
+Convo2_chunk100.wav,happy,convo2
+Convo2_chunk101.wav,happy,convo2
+Convo2_chunk102.wav,happy,convo2
+Convo2_chunk103.wav,happy,convo2
+Convo2_chunk104.wav,happy,convo2
+Convo2_chunk105.wav,happy,convo2
+Convo2_chunk106.wav,happy,convo2
+Convo2_chunk107.wav,happy,convo2
+Convo2_chunk108.wav,happy,convo2
+Convo2_chunk109.wav,angry,convo2
+Convo2_chunk11.wav,happy,convo2
+Convo2_chunk110.wav,disgust,convo2
+Convo2_chunk111.wav,happy,convo2
+Convo2_chunk112.wav,happy,convo2
+Convo2_chunk113.wav,happy,convo2
+Convo2_chunk114.wav,happy,convo2
+Convo2_chunk115.wav,happy,convo2
+Convo2_chunk116.wav,angry,convo2
+Convo2_chunk117.wav,happy,convo2
+Convo2_chunk118.wav,happy,convo2
+Convo2_chunk119.wav,happy,convo2
+Convo2_chunk12.wav,happy,convo2
+Convo2_chunk120.wav,happy,convo2
+Convo2_chunk121.wav,happy,convo2
+Convo2_chunk122.wav,happy,convo2
+Convo2_chunk123.wav,angry,convo2
+Convo2_chunk124.wav,angry,convo2
+Convo2_chunk125.wav,happy,convo2
+Convo2_chunk126.wav,happy,convo2
+Convo2_chunk127.wav,angry,convo2
+Convo2_chunk128.wav,happy,convo2
+Convo2_chunk129.wav,happy,convo2
+Convo2_chunk13.wav,happy,convo2
+Convo2_chunk130.wav,happy,convo2
+Convo2_chunk131.wav,happy,convo2
+Convo2_chunk132.wav,angry,convo2
+Convo2_chunk133.wav,angry,convo2
+Convo2_chunk134.wav,angry,convo2
+Convo2_chunk135.wav,angry,convo2
+Convo2_chunk136.wav,happy,convo2
+Convo2_chunk137.wav,angry,convo2
+Convo2_chunk138.wav,angry,convo2
+Convo2_chunk139.wav,happy,convo2
+Convo2_chunk14.wav,happy,convo2
+Convo2_chunk140.wav,angry,convo2
+Convo2_chunk141.wav,angry,convo2
+Convo2_chunk142.wav,happy,convo2
+Convo2_chunk143.wav,disgust,convo2
+Convo2_chunk144.wav,angry,convo2
+Convo2_chunk145.wav,happy,convo2
+Convo2_chunk146.wav,happy,convo2
+Convo2_chunk147.wav,happy,convo2
+Convo2_chunk148.wav,happy,convo2
+Convo2_chunk149.wav,angry,convo2
+Convo2_chunk15.wav,happy,convo2
+Convo2_chunk150.wav,angry,convo2
+Convo2_chunk151.wav,happy,convo2
+Convo2_chunk152.wav,happy,convo2
+Convo2_chunk153.wav,happy,convo2
+Convo2_chunk154.wav,happy,convo2
+Convo2_chunk155.wav,angry,convo2
+Convo2_chunk156.wav,happy,convo2
+Convo2_chunk157.wav,happy,convo2
+Convo2_chunk158.wav,happy,convo2
+Convo2_chunk159.wav,calm,convo2
+Convo2_chunk16.wav,angry,convo2
+Convo2_chunk160.wav,happy,convo2
+Convo2_chunk161.wav,happy,convo2
+Convo2_chunk162.wav,angry,convo2
+Convo2_chunk163.wav,happy,convo2
+Convo2_chunk164.wav,happy,convo2
+Convo2_chunk165.wav,angry,convo2
+Convo2_chunk166.wav,happy,convo2
+Convo2_chunk167.wav,happy,convo2
+Convo2_chunk168.wav,happy,convo2
+Convo2_chunk169.wav,happy,convo2
+Convo2_chunk17.wav,happy,convo2
+Convo2_chunk170.wav,disgust,convo2
+Convo2_chunk171.wav,happy,convo2
+Convo2_chunk172.wav,happy,convo2
+Convo2_chunk173.wav,happy,convo2
+Convo2_chunk174.wav,angry,convo2
+Convo2_chunk18.wav,happy,convo2
+Convo2_chunk19.wav,happy,convo2
+Convo2_chunk2.wav,angry,convo2
+Convo2_chunk20.wav,happy,convo2
+Convo2_chunk21.wav,calm,convo2
+Convo2_chunk22.wav,happy,convo2
+Convo2_chunk23.wav,happy,convo2
+Convo2_chunk24.wav,happy,convo2
+Convo2_chunk25.wav,happy,convo2
+Convo2_chunk26.wav,angry,convo2
+Convo2_chunk27.wav,angry,convo2
+Convo2_chunk28.wav,happy,convo2
+Convo2_chunk29.wav,happy,convo2
+Convo2_chunk3.wav,angry,convo2
+Convo2_chunk30.wav,angry,convo2
+Convo2_chunk31.wav,happy,convo2
+Convo2_chunk32.wav,angry,convo2
+Convo2_chunk33.wav,happy,convo2
+Convo2_chunk34.wav,happy,convo2
+Convo2_chunk35.wav,happy,convo2
+Convo2_chunk36.wav,angry,convo2
+Convo2_chunk37.wav,happy,convo2
+Convo2_chunk38.wav,angry,convo2
+Convo2_chunk39.wav,angry,convo2
+Convo2_chunk4.wav,happy,convo2
+Convo2_chunk40.wav,disgust,convo2
+Convo2_chunk41.wav,happy,convo2
+Convo2_chunk42.wav,happy,convo2
+Convo2_chunk43.wav,angry,convo2
+Convo2_chunk44.wav,happy,convo2
+Convo2_chunk45.wav,happy,convo2
+Convo2_chunk46.wav,happy,convo2
+Convo2_chunk47.wav,disgust,convo2
+Convo2_chunk48.wav,disgust,convo2
+Convo2_chunk49.wav,happy,convo2
+Convo2_chunk5.wav,angry,convo2
+Convo2_chunk50.wav,happy,convo2
+Convo2_chunk51.wav,happy,convo2
+Convo2_chunk52.wav,angry,convo2
+Convo2_chunk53.wav,angry,convo2
+Convo2_chunk54.wav,happy,convo2
+Convo2_chunk55.wav,happy,convo2
+Convo2_chunk56.wav,happy,convo2
+Convo2_chunk57.wav,happy,convo2
+Convo2_chunk58.wav,disgust,convo2
+Convo2_chunk59.wav,happy,convo2
+Convo2_chunk6.wav,angry,convo2
+Convo2_chunk60.wav,happy,convo2
+Convo2_chunk61.wav,disgust,convo2
+Convo2_chunk62.wav,angry,convo2
+Convo2_chunk63.wav,angry,convo2
+Convo2_chunk64.wav,happy,convo2
+Convo2_chunk65.wav,angry,convo2
+Convo2_chunk66.wav,angry,convo2
+Convo2_chunk67.wav,angry,convo2
+Convo2_chunk68.wav,angry,convo2
+Convo2_chunk69.wav,angry,convo2
+Convo2_chunk7.wav,angry,convo2
+Convo2_chunk70.wav,happy,convo2
+Convo2_chunk71.wav,happy,convo2
+Convo2_chunk72.wav,calm,convo2
+Convo2_chunk73.wav,happy,convo2
+Convo2_chunk74.wav,angry,convo2
+Convo2_chunk75.wav,angry,convo2
+Convo2_chunk76.wav,happy,convo2
+Convo2_chunk77.wav,angry,convo2
+Convo2_chunk78.wav,angry,convo2
+Convo2_chunk79.wav,angry,convo2
+Convo2_chunk8.wav,happy,convo2
+Convo2_chunk80.wav,happy,convo2
+Convo2_chunk81.wav,happy,convo2
+Convo2_chunk82.wav,happy,convo2
+Convo2_chunk83.wav,calm,convo2
+Convo2_chunk84.wav,disgust,convo2
+Convo2_chunk85.wav,disgust,convo2
+Convo2_chunk86.wav,disgust,convo2
+Convo2_chunk87.wav,calm,convo2
+Convo2_chunk88.wav,happy,convo2
+Convo2_chunk89.wav,happy,convo2
+Convo2_chunk9.wav,happy,convo2
+Convo2_chunk90.wav,happy,convo2
+Convo2_chunk91.wav,happy,convo2
+Convo2_chunk92.wav,angry,convo2
+Convo2_chunk93.wav,happy,convo2
+Convo2_chunk94.wav,happy,convo2
+Convo2_chunk95.wav,angry,convo2
+Convo2_chunk96.wav,happy,convo2
+Convo2_chunk97.wav,happy,convo2
+Convo2_chunk98.wav,happy,convo2
+Convo2_chunk99.wav,happy,convo2
+convo1_chunk0.wav,angry,convo
+convo1_chunk1.wav,angry,convo
+convo1_chunk10.wav,angry,convo
+convo1_chunk100.wav,happy,convo
+convo1_chunk101.wav,calm,convo
+convo1_chunk102.wav,angry,convo
+convo1_chunk103.wav,calm,convo
+convo1_chunk104.wav,calm,convo
+convo1_chunk105.wav,happy,convo
+convo1_chunk106.wav,angry,convo
+convo1_chunk107.wav,angry,convo
+convo1_chunk108.wav,angry,convo
+convo1_chunk109.wav,angry,convo
+convo1_chunk11.wav,angry,convo
+convo1_chunk110.wav,calm,convo
+convo1_chunk111.wav,angry,convo
+convo1_chunk112.wav,happy,convo
+convo1_chunk113.wav,angry,convo
+convo1_chunk114.wav,happy,convo
+convo1_chunk115.wav,angry,convo
+convo1_chunk116.wav,angry,convo
+convo1_chunk117.wav,angry,convo
+convo1_chunk118.wav,calm,convo
+convo1_chunk119.wav,angry,convo
+convo1_chunk12.wav,angry,convo
+convo1_chunk120.wav,angry,convo
+convo1_chunk121.wav,happy,convo
+convo1_chunk122.wav,angry,convo
+convo1_chunk123.wav,happy,convo
+convo1_chunk124.wav,happy,convo
+convo1_chunk125.wav,angry,convo
+convo1_chunk126.wav,angry,convo
+convo1_chunk127.wav,angry,convo
+convo1_chunk128.wav,angry,convo
+convo1_chunk129.wav,happy,convo
+convo1_chunk13.wav,angry,convo
+convo1_chunk130.wav,angry,convo
+convo1_chunk131.wav,angry,convo
+convo1_chunk132.wav,calm,convo
+convo1_chunk133.wav,angry,convo
+convo1_chunk134.wav,happy,convo
+convo1_chunk14.wav,angry,convo
+convo1_chunk15.wav,angry,convo
+convo1_chunk16.wav,angry,convo
+convo1_chunk17.wav,angry,convo
+convo1_chunk18.wav,angry,convo
+convo1_chunk19.wav,angry,convo
+convo1_chunk2.wav,angry,convo
+convo1_chunk20.wav,angry,convo
+convo1_chunk21.wav,angry,convo
+convo1_chunk22.wav,angry,convo
+convo1_chunk23.wav,angry,convo
+convo1_chunk24.wav,calm,convo
+convo1_chunk25.wav,angry,convo
+convo1_chunk26.wav,angry,convo
+convo1_chunk27.wav,angry,convo
+convo1_chunk28.wav,angry,convo
+convo1_chunk29.wav,angry,convo
+convo1_chunk3.wav,angry,convo
+convo1_chunk30.wav,happy,convo
+convo1_chunk31.wav,happy,convo
+convo1_chunk32.wav,happy,convo
+convo1_chunk33.wav,happy,convo
+convo1_chunk34.wav,happy,convo
+convo1_chunk35.wav,happy,convo
+convo1_chunk36.wav,happy,convo
+convo1_chunk37.wav,happy,convo
+convo1_chunk38.wav,happy,convo
+convo1_chunk39.wav,angry,convo
+convo1_chunk4.wav,angry,convo
+convo1_chunk40.wav,disgust,convo
+convo1_chunk41.wav,happy,convo
+convo1_chunk42.wav,happy,convo
+convo1_chunk43.wav,happy,convo
+convo1_chunk44.wav,happy,convo
+convo1_chunk45.wav,disgust,convo
+convo1_chunk46.wav,calm,convo
+convo1_chunk47.wav,happy,convo
+convo1_chunk48.wav,disgust,convo
+convo1_chunk49.wav,happy,convo
+convo1_chunk5.wav,angry,convo
+convo1_chunk50.wav,happy,convo
+convo1_chunk51.wav,calm,convo
+convo1_chunk52.wav,calm,convo
+convo1_chunk53.wav,calm,convo
+convo1_chunk54.wav,disgust,convo
+convo1_chunk55.wav,happy,convo
+convo1_chunk56.wav,disgust,convo
+convo1_chunk57.wav,happy,convo
+convo1_chunk58.wav,disgust,convo
+convo1_chunk59.wav,disgust,convo
+convo1_chunk6.wav,angry,convo
+convo1_chunk60.wav,happy,convo
+convo1_chunk61.wav,happy,convo
+convo1_chunk62.wav,happy,convo
+convo1_chunk63.wav,happy,convo
+convo1_chunk64.wav,disgust,convo
+convo1_chunk65.wav,disgust,convo
+convo1_chunk66.wav,disgust,convo
+convo1_chunk67.wav,disgust,convo
+convo1_chunk68.wav,disgust,convo
+convo1_chunk69.wav,disgust,convo
+convo1_chunk7.wav,angry,convo
+convo1_chunk70.wav,happy,convo
+convo1_chunk71.wav,disgust,convo
+convo1_chunk72.wav,happy,convo
+convo1_chunk73.wav,disgust,convo
+convo1_chunk74.wav,calm,convo
+convo1_chunk75.wav,calm,convo
+convo1_chunk76.wav,happy,convo
+convo1_chunk77.wav,happy,convo
+convo1_chunk78.wav,happy,convo
+convo1_chunk79.wav,happy,convo
+convo1_chunk8.wav,angry,convo
+convo1_chunk80.wav,happy,convo
+convo1_chunk81.wav,happy,convo
+convo1_chunk82.wav,happy,convo
+convo1_chunk83.wav,happy,convo
+convo1_chunk84.wav,disgust,convo
+convo1_chunk85.wav,disgust,convo
+convo1_chunk86.wav,disgust,convo
+convo1_chunk87.wav,disgust,convo
+convo1_chunk88.wav,disgust,convo
+convo1_chunk89.wav,angry,convo
+convo1_chunk9.wav,angry,convo
+convo1_chunk90.wav,calm,convo
+convo1_chunk91.wav,angry,convo
+convo1_chunk92.wav,happy,convo
+convo1_chunk93.wav,happy,convo
+convo1_chunk94.wav,happy,convo
+convo1_chunk95.wav,happy,convo
+convo1_chunk96.wav,angry,convo
+convo1_chunk97.wav,angry,convo
+convo1_chunk98.wav,happy,convo
+convo1_chunk99.wav,angry,convo
+Convo2_chunk0.wav,happy,convo
+Convo2_chunk1.wav,happy,convo
+Convo2_chunk10.wav,happy,convo
+Convo2_chunk100.wav,happy,convo
+Convo2_chunk101.wav,happy,convo
+Convo2_chunk102.wav,happy,convo
+Convo2_chunk103.wav,happy,convo
+Convo2_chunk104.wav,happy,convo
+Convo2_chunk105.wav,happy,convo
+Convo2_chunk106.wav,happy,convo
+Convo2_chunk107.wav,happy,convo
+Convo2_chunk108.wav,happy,convo
+Convo2_chunk109.wav,angry,convo
+Convo2_chunk11.wav,happy,convo
+Convo2_chunk110.wav,disgust,convo
+Convo2_chunk111.wav,happy,convo
+Convo2_chunk112.wav,happy,convo
+Convo2_chunk113.wav,happy,convo
+Convo2_chunk114.wav,happy,convo
+Convo2_chunk115.wav,happy,convo
+Convo2_chunk116.wav,angry,convo
+Convo2_chunk117.wav,happy,convo
+Convo2_chunk118.wav,happy,convo
+Convo2_chunk119.wav,happy,convo
+Convo2_chunk12.wav,happy,convo
+Convo2_chunk120.wav,happy,convo
+Convo2_chunk121.wav,happy,convo
+Convo2_chunk122.wav,happy,convo
+Convo2_chunk123.wav,angry,convo
+Convo2_chunk124.wav,angry,convo
+Convo2_chunk125.wav,happy,convo
+Convo2_chunk126.wav,happy,convo
+Convo2_chunk127.wav,angry,convo
+Convo2_chunk128.wav,happy,convo
+Convo2_chunk129.wav,happy,convo
+Convo2_chunk13.wav,happy,convo
+Convo2_chunk130.wav,happy,convo
+Convo2_chunk131.wav,happy,convo
+Convo2_chunk132.wav,angry,convo
+Convo2_chunk133.wav,angry,convo
+Convo2_chunk134.wav,angry,convo
+Convo2_chunk135.wav,angry,convo
+Convo2_chunk136.wav,happy,convo
+Convo2_chunk137.wav,angry,convo
+Convo2_chunk138.wav,angry,convo
+Convo2_chunk139.wav,happy,convo
+Convo2_chunk14.wav,happy,convo
+Convo2_chunk140.wav,angry,convo
+Convo2_chunk141.wav,angry,convo
+Convo2_chunk142.wav,happy,convo
+Convo2_chunk143.wav,disgust,convo
+Convo2_chunk144.wav,angry,convo
+Convo2_chunk145.wav,happy,convo
+Convo2_chunk146.wav,happy,convo
+Convo2_chunk147.wav,happy,convo
+Convo2_chunk148.wav,happy,convo
+Convo2_chunk149.wav,angry,convo
+Convo2_chunk15.wav,happy,convo
+Convo2_chunk150.wav,angry,convo
+Convo2_chunk151.wav,happy,convo
+Convo2_chunk152.wav,happy,convo
+Convo2_chunk153.wav,happy,convo
+Convo2_chunk154.wav,happy,convo
+Convo2_chunk155.wav,angry,convo
+Convo2_chunk156.wav,happy,convo
+Convo2_chunk157.wav,happy,convo
+Convo2_chunk158.wav,happy,convo
+Convo2_chunk159.wav,calm,convo
+Convo2_chunk16.wav,angry,convo
+Convo2_chunk160.wav,happy,convo
+Convo2_chunk161.wav,happy,convo
+Convo2_chunk162.wav,angry,convo
+Convo2_chunk163.wav,happy,convo
+Convo2_chunk164.wav,happy,convo
+Convo2_chunk165.wav,angry,convo
+Convo2_chunk166.wav,happy,convo
+Convo2_chunk167.wav,happy,convo
+Convo2_chunk168.wav,happy,convo
+Convo2_chunk169.wav,happy,convo
+Convo2_chunk17.wav,happy,convo
+Convo2_chunk170.wav,disgust,convo
+Convo2_chunk171.wav,happy,convo
+Convo2_chunk172.wav,happy,convo
+Convo2_chunk173.wav,happy,convo
+Convo2_chunk174.wav,angry,convo
+Convo2_chunk18.wav,happy,convo
+Convo2_chunk19.wav,happy,convo
+Convo2_chunk2.wav,angry,convo
+Convo2_chunk20.wav,happy,convo
+Convo2_chunk21.wav,calm,convo
+Convo2_chunk22.wav,happy,convo
+Convo2_chunk23.wav,happy,convo
+Convo2_chunk24.wav,happy,convo
+Convo2_chunk25.wav,happy,convo
+Convo2_chunk26.wav,angry,convo
+Convo2_chunk27.wav,angry,convo
+Convo2_chunk28.wav,happy,convo
+Convo2_chunk29.wav,happy,convo
+Convo2_chunk3.wav,angry,convo
+Convo2_chunk30.wav,angry,convo
+Convo2_chunk31.wav,happy,convo
+Convo2_chunk32.wav,angry,convo
+Convo2_chunk33.wav,happy,convo
+Convo2_chunk34.wav,happy,convo
+Convo2_chunk35.wav,happy,convo
+Convo2_chunk36.wav,angry,convo
+Convo2_chunk37.wav,happy,convo
+Convo2_chunk38.wav,angry,convo
+Convo2_chunk39.wav,angry,convo
+Convo2_chunk4.wav,happy,convo
+Convo2_chunk40.wav,disgust,convo
+Convo2_chunk41.wav,happy,convo
+Convo2_chunk42.wav,happy,convo
+Convo2_chunk43.wav,angry,convo
+Convo2_chunk44.wav,happy,convo
+Convo2_chunk45.wav,happy,convo
+Convo2_chunk46.wav,happy,convo
+Convo2_chunk47.wav,disgust,convo
+Convo2_chunk48.wav,disgust,convo
+Convo2_chunk49.wav,happy,convo
+Convo2_chunk5.wav,angry,convo
+Convo2_chunk50.wav,happy,convo
+Convo2_chunk51.wav,happy,convo
+Convo2_chunk52.wav,angry,convo
+Convo2_chunk53.wav,angry,convo
+Convo2_chunk54.wav,happy,convo
+Convo2_chunk55.wav,happy,convo
+Convo2_chunk56.wav,happy,convo
+Convo2_chunk57.wav,happy,convo
+Convo2_chunk58.wav,disgust,convo
+Convo2_chunk59.wav,happy,convo
+Convo2_chunk6.wav,angry,convo
+Convo2_chunk60.wav,happy,convo
+Convo2_chunk61.wav,disgust,convo
+Convo2_chunk62.wav,angry,convo
+Convo2_chunk63.wav,angry,convo
+Convo2_chunk64.wav,happy,convo
+Convo2_chunk65.wav,angry,convo
+Convo2_chunk66.wav,angry,convo
+Convo2_chunk67.wav,angry,convo
+Convo2_chunk68.wav,angry,convo
+Convo2_chunk69.wav,angry,convo
+Convo2_chunk7.wav,angry,convo
+Convo2_chunk70.wav,happy,convo
+Convo2_chunk71.wav,happy,convo
+Convo2_chunk72.wav,calm,convo
+Convo2_chunk73.wav,happy,convo
+Convo2_chunk74.wav,angry,convo
+Convo2_chunk75.wav,angry,convo
+Convo2_chunk76.wav,happy,convo
+Convo2_chunk77.wav,angry,convo
+Convo2_chunk78.wav,angry,convo
+Convo2_chunk79.wav,angry,convo
+Convo2_chunk8.wav,happy,convo
+Convo2_chunk80.wav,happy,convo
+Convo2_chunk81.wav,happy,convo
+Convo2_chunk82.wav,happy,convo
+Convo2_chunk83.wav,calm,convo
+Convo2_chunk84.wav,disgust,convo
+Convo2_chunk85.wav,disgust,convo
+Convo2_chunk86.wav,disgust,convo
+Convo2_chunk87.wav,calm,convo
+Convo2_chunk88.wav,happy,convo
+Convo2_chunk89.wav,happy,convo
+Convo2_chunk9.wav,happy,convo
+Convo2_chunk90.wav,happy,convo
+Convo2_chunk91.wav,happy,convo
+Convo2_chunk92.wav,angry,convo
+Convo2_chunk93.wav,happy,convo
+Convo2_chunk94.wav,happy,convo
+Convo2_chunk95.wav,angry,convo
+Convo2_chunk96.wav,happy,convo
+Convo2_chunk97.wav,happy,convo
+Convo2_chunk98.wav,happy,convo
+Convo2_chunk99.wav,happy,convo
+DeshaunaBarber_chunk0.wav,happy,Deshauna Barber
+DeshaunaBarber_chunk1.wav,happy,Deshauna Barber
+DeshaunaBarber_chunk10.wav,disgust,Deshauna Barber
+DeshaunaBarber_chunk11.wav,happy,Deshauna Barber
+DeshaunaBarber_chunk2.wav,happy,Deshauna Barber
+DeshaunaBarber_chunk3.wav,happy,Deshauna Barber
+DeshaunaBarber_chunk4.wav,happy,Deshauna Barber
+DeshaunaBarber_chunk5.wav,happy,Deshauna Barber
+DeshaunaBarber_chunk6.wav,angry,Deshauna Barber
+DeshaunaBarber_chunk7.wav,happy,Deshauna Barber
+DeshaunaBarber_chunk8.wav,angry,Deshauna Barber
+DeshaunaBarber_chunk9.wav,angry,Deshauna Barber
+Marc_Mero_chunk0.wav,angry,Marc Mero
+Marc_Mero_chunk1.wav,angry,Marc Mero
+Marc_Mero_chunk2.wav,angry,Marc Mero
+Marc_Mero_chunk3.wav,angry,Marc Mero
+Marc_Mero_chunk4.wav,angry,Marc Mero
+Marc_Mero_chunk5.wav,happy,Marc Mero
+Marc_Mero_chunk6.wav,angry,Marc Mero
+Marc_Mero_chunk7.wav,happy,Marc Mero
+Michelle_chunk0.wav,angry,Michelle Obama
+Michelle_chunk1.wav,happy,Michelle Obama
+Michelle_chunk10.wav,happy,Michelle Obama
+Michelle_chunk11.wav,angry,Michelle Obama
+Michelle_chunk12.wav,happy,Michelle Obama
+Michelle_chunk13.wav,happy,Michelle Obama
+Michelle_chunk14.wav,happy,Michelle Obama
+Michelle_chunk15.wav,happy,Michelle Obama
+Michelle_chunk16.wav,happy,Michelle Obama
+Michelle_chunk17.wav,angry,Michelle Obama
+Michelle_chunk18.wav,happy,Michelle Obama
+Michelle_chunk19.wav,happy,Michelle Obama
+Michelle_chunk2.wav,disgust,Michelle Obama
+Michelle_chunk20.wav,angry,Michelle Obama
+Michelle_chunk21.wav,angry,Michelle Obama
+Michelle_chunk3.wav,happy,Michelle Obama
+Michelle_chunk4.wav,happy,Michelle Obama
+Michelle_chunk5.wav,happy,Michelle Obama
+Michelle_chunk6.wav,happy,Michelle Obama
+Michelle_chunk7.wav,happy,Michelle Obama
+Michelle_chunk8.wav,happy,Michelle Obama
+Michelle_chunk9.wav,happy,Michelle Obama
+NickVujicic_chunk0.wav,happy,Nick Vujicic
+NickVujicic_chunk1.wav,happy,Nick Vujicic
+NickVujicic_chunk10.wav,happy,Nick Vujicic
+NickVujicic_chunk11.wav,happy,Nick Vujicic
+NickVujicic_chunk12.wav,happy,Nick Vujicic
+NickVujicic_chunk13.wav,happy,Nick Vujicic
+NickVujicic_chunk14.wav,happy,Nick Vujicic
+NickVujicic_chunk15.wav,happy,Nick Vujicic
+NickVujicic_chunk16.wav,happy,Nick Vujicic
+NickVujicic_chunk17.wav,happy,Nick Vujicic
+NickVujicic_chunk18.wav,happy,Nick Vujicic
+NickVujicic_chunk19.wav,happy,Nick Vujicic
+NickVujicic_chunk2.wav,happy,Nick Vujicic
+NickVujicic_chunk20.wav,happy,Nick Vujicic
+NickVujicic_chunk21.wav,happy,Nick Vujicic
+NickVujicic_chunk22.wav,happy,Nick Vujicic
+NickVujicic_chunk23.wav,happy,Nick Vujicic
+NickVujicic_chunk24.wav,happy,Nick Vujicic
+NickVujicic_chunk25.wav,happy,Nick Vujicic
+NickVujicic_chunk26.wav,happy,Nick Vujicic
+NickVujicic_chunk27.wav,happy,Nick Vujicic
+NickVujicic_chunk28.wav,happy,Nick Vujicic
+NickVujicic_chunk3.wav,happy,Nick Vujicic
+NickVujicic_chunk4.wav,happy,Nick Vujicic
+NickVujicic_chunk5.wav,happy,Nick Vujicic
+NickVujicic_chunk6.wav,happy,Nick Vujicic
+NickVujicic_chunk7.wav,happy,Nick Vujicic
+NickVujicic_chunk8.wav,angry,Nick Vujicic
+NickVujicic_chunk9.wav,happy,Nick Vujicic
+Obama_Bill_Melinda_chunk0.wav,angry,Obama Bill Melinda
+Obama_Bill_Melinda_chunk1.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk10.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk11.wav,angry,Obama Bill Melinda
+Obama_Bill_Melinda_chunk12.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk13.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk14.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk15.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk16.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk17.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk18.wav,angry,Obama Bill Melinda
+Obama_Bill_Melinda_chunk19.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk2.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk20.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk21.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk22.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk23.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk24.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk25.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk26.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk27.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk28.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk29.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk3.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk4.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk5.wav,angry,Obama Bill Melinda
+Obama_Bill_Melinda_chunk6.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk7.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk8.wav,happy,Obama Bill Melinda
+Obama_Bill_Melinda_chunk9.wav,happy,Obama Bill Melinda
+Ratantata_chunk0.wav,angry,Ratan Tata
+Ratantata_chunk1.wav,happy,Ratan Tata
+Ratantata_chunk2.wav,angry,Ratan Tata
+Ratantata_chunk3.wav,happy,Ratan Tata
+Ratantata_chunk4.wav,angry,Ratan Tata
+Ratantata_chunk5.wav,angry,Ratan Tata
+Ratantata_chunk6.wav,angry,Ratan Tata
+Ratantata_chunk7.wav,happy,Ratan Tata
+Rock_Oprah_chunk0.wav,happy,Rock Oprah
+Rock_Oprah_chunk1.wav,happy,Rock Oprah
+Rock_Oprah_chunk10.wav,happy,Rock Oprah
+Rock_Oprah_chunk11.wav,happy,Rock Oprah
+Rock_Oprah_chunk12.wav,happy,Rock Oprah
+Rock_Oprah_chunk13.wav,happy,Rock Oprah
+Rock_Oprah_chunk14.wav,happy,Rock Oprah
+Rock_Oprah_chunk15.wav,angry,Rock Oprah
+Rock_Oprah_chunk16.wav,happy,Rock Oprah
+Rock_Oprah_chunk17.wav,happy,Rock Oprah
+Rock_Oprah_chunk18.wav,happy,Rock Oprah
+Rock_Oprah_chunk19.wav,happy,Rock Oprah
+Rock_Oprah_chunk2.wav,happy,Rock Oprah
+Rock_Oprah_chunk20.wav,happy,Rock Oprah
+Rock_Oprah_chunk3.wav,happy,Rock Oprah
+Rock_Oprah_chunk4.wav,happy,Rock Oprah
+Rock_Oprah_chunk5.wav,happy,Rock Oprah
+Rock_Oprah_chunk6.wav,happy,Rock Oprah
+Rock_Oprah_chunk7.wav,happy,Rock Oprah
+Rock_Oprah_chunk8.wav,happy,Rock Oprah
+Rock_Oprah_chunk9.wav,happy,Rock Oprah
+Shakira_chunk0.wav,angry,Shakira
+Shakira_chunk1.wav,angry,Shakira
+Shakira_chunk10.wav,angry,Shakira
+Shakira_chunk2.wav,happy,Shakira
+Shakira_chunk3.wav,angry,Shakira
+Shakira_chunk4.wav,angry,Shakira
+Shakira_chunk5.wav,angry,Shakira
+Shakira_chunk6.wav,angry,Shakira
+Shakira_chunk7.wav,happy,Shakira
+Shakira_chunk8.wav,angry,Shakira
+Shakira_chunk9.wav,angry,Shakira
+TonySamara_chunk0.wav,happy,TonySamara
+TonySamara_chunk1.wav,angry,TonySamara
+TonySamara_chunk10.wav,happy,TonySamara
+TonySamara_chunk100.wav,happy,TonySamara
+TonySamara_chunk101.wav,happy,TonySamara
+TonySamara_chunk102.wav,happy,TonySamara
+TonySamara_chunk103.wav,happy,TonySamara
+TonySamara_chunk104.wav,happy,TonySamara
+TonySamara_chunk105.wav,angry,TonySamara
+TonySamara_chunk106.wav,happy,TonySamara
+TonySamara_chunk107.wav,happy,TonySamara
+TonySamara_chunk108.wav,angry,TonySamara
+TonySamara_chunk109.wav,happy,TonySamara
+TonySamara_chunk11.wav,happy,TonySamara
+TonySamara_chunk110.wav,angry,TonySamara
+TonySamara_chunk111.wav,happy,TonySamara
+TonySamara_chunk112.wav,happy,TonySamara
+TonySamara_chunk113.wav,happy,TonySamara
+TonySamara_chunk114.wav,angry,TonySamara
+TonySamara_chunk115.wav,angry,TonySamara
+TonySamara_chunk116.wav,angry,TonySamara
+TonySamara_chunk117.wav,happy,TonySamara
+TonySamara_chunk118.wav,happy,TonySamara
+TonySamara_chunk119.wav,happy,TonySamara
+TonySamara_chunk12.wav,angry,TonySamara
+TonySamara_chunk120.wav,happy,TonySamara
+TonySamara_chunk121.wav,happy,TonySamara
+TonySamara_chunk122.wav,happy,TonySamara
+TonySamara_chunk123.wav,happy,TonySamara
+TonySamara_chunk124.wav,happy,TonySamara
+TonySamara_chunk125.wav,angry,TonySamara
+TonySamara_chunk126.wav,angry,TonySamara
+TonySamara_chunk127.wav,happy,TonySamara
+TonySamara_chunk128.wav,happy,TonySamara
+TonySamara_chunk129.wav,happy,TonySamara
+TonySamara_chunk13.wav,angry,TonySamara
+TonySamara_chunk130.wav,happy,TonySamara
+TonySamara_chunk131.wav,happy,TonySamara
+TonySamara_chunk132.wav,calm,TonySamara
+TonySamara_chunk14.wav,happy,TonySamara
+TonySamara_chunk15.wav,happy,TonySamara
+TonySamara_chunk16.wav,happy,TonySamara
+TonySamara_chunk17.wav,happy,TonySamara
+TonySamara_chunk18.wav,happy,TonySamara
+TonySamara_chunk19.wav,happy,TonySamara
+TonySamara_chunk2.wav,angry,TonySamara
+TonySamara_chunk20.wav,angry,TonySamara
+TonySamara_chunk21.wav,happy,TonySamara
+TonySamara_chunk22.wav,happy,TonySamara
+TonySamara_chunk23.wav,happy,TonySamara
+TonySamara_chunk24.wav,happy,TonySamara
+TonySamara_chunk25.wav,disgust,TonySamara
+TonySamara_chunk26.wav,happy,TonySamara
+TonySamara_chunk27.wav,happy,TonySamara
+TonySamara_chunk28.wav,angry,TonySamara
+TonySamara_chunk29.wav,angry,TonySamara
+TonySamara_chunk3.wav,angry,TonySamara
+TonySamara_chunk30.wav,disgust,TonySamara
+TonySamara_chunk31.wav,happy,TonySamara
+TonySamara_chunk32.wav,happy,TonySamara
+TonySamara_chunk33.wav,happy,TonySamara
+TonySamara_chunk34.wav,happy,TonySamara
+TonySamara_chunk35.wav,disgust,TonySamara
+TonySamara_chunk36.wav,happy,TonySamara
+TonySamara_chunk37.wav,disgust,TonySamara
+TonySamara_chunk38.wav,disgust,TonySamara
+TonySamara_chunk39.wav,angry,TonySamara
+TonySamara_chunk4.wav,happy,TonySamara
+TonySamara_chunk40.wav,disgust,TonySamara
+TonySamara_chunk41.wav,happy,TonySamara
+TonySamara_chunk42.wav,angry,TonySamara
+TonySamara_chunk43.wav,disgust,TonySamara
+TonySamara_chunk44.wav,angry,TonySamara
+TonySamara_chunk45.wav,angry,TonySamara
+TonySamara_chunk46.wav,happy,TonySamara
+TonySamara_chunk47.wav,happy,TonySamara
+TonySamara_chunk48.wav,happy,TonySamara
+TonySamara_chunk49.wav,angry,TonySamara
+TonySamara_chunk5.wav,happy,TonySamara
+TonySamara_chunk50.wav,angry,TonySamara
+TonySamara_chunk51.wav,angry,TonySamara
+TonySamara_chunk52.wav,angry,TonySamara
+TonySamara_chunk53.wav,disgust,TonySamara
+TonySamara_chunk54.wav,disgust,TonySamara
+TonySamara_chunk55.wav,disgust,TonySamara
+TonySamara_chunk56.wav,happy,TonySamara
+TonySamara_chunk57.wav,happy,TonySamara
+TonySamara_chunk58.wav,happy,TonySamara
+TonySamara_chunk59.wav,happy,TonySamara
+TonySamara_chunk6.wav,happy,TonySamara
+TonySamara_chunk60.wav,angry,TonySamara
+TonySamara_chunk61.wav,happy,TonySamara
+TonySamara_chunk62.wav,happy,TonySamara
+TonySamara_chunk63.wav,happy,TonySamara
+TonySamara_chunk64.wav,happy,TonySamara
+TonySamara_chunk65.wav,disgust,TonySamara
+TonySamara_chunk66.wav,happy,TonySamara
+TonySamara_chunk67.wav,happy,TonySamara
+TonySamara_chunk68.wav,happy,TonySamara
+TonySamara_chunk69.wav,happy,TonySamara
+TonySamara_chunk7.wav,happy,TonySamara
+TonySamara_chunk70.wav,angry,TonySamara
+TonySamara_chunk71.wav,happy,TonySamara
+TonySamara_chunk72.wav,happy,TonySamara
+TonySamara_chunk73.wav,happy,TonySamara
+TonySamara_chunk74.wav,happy,TonySamara
+TonySamara_chunk75.wav,angry,TonySamara
+TonySamara_chunk76.wav,happy,TonySamara
+TonySamara_chunk77.wav,happy,TonySamara
+TonySamara_chunk78.wav,happy,TonySamara
+TonySamara_chunk79.wav,happy,TonySamara
+TonySamara_chunk8.wav,happy,TonySamara
+TonySamara_chunk80.wav,happy,TonySamara
+TonySamara_chunk81.wav,calm,TonySamara
+TonySamara_chunk82.wav,angry,TonySamara
+TonySamara_chunk83.wav,happy,TonySamara
+TonySamara_chunk84.wav,calm,TonySamara
+TonySamara_chunk85.wav,happy,TonySamara
+TonySamara_chunk86.wav,angry,TonySamara
+TonySamara_chunk87.wav,angry,TonySamara
+TonySamara_chunk88.wav,happy,TonySamara
+TonySamara_chunk89.wav,angry,TonySamara
+TonySamara_chunk9.wav,happy,TonySamara
+TonySamara_chunk90.wav,angry,TonySamara
+TonySamara_chunk91.wav,happy,TonySamara
+TonySamara_chunk92.wav,happy,TonySamara
+TonySamara_chunk93.wav,calm,TonySamara
+TonySamara_chunk94.wav,happy,TonySamara
+TonySamara_chunk95.wav,happy,TonySamara
+TonySamara_chunk96.wav,happy,TonySamara
+TonySamara_chunk97.wav,happy,TonySamara
+TonySamara_chunk98.wav,happy,TonySamara
+TonySamara_chunk99.wav,happy,TonySamara
